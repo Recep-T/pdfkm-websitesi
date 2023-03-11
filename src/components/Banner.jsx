@@ -1,7 +1,7 @@
 import React from 'react';
 
 // import image
-import Image from '../assets/img/lawyer_banner1.jpeg';
+import Image from '../assets/img/banner.jpeg';
 
 // import components
 import Header from './Header';
